@@ -1,0 +1,5 @@
+div, #chatbox {
+    height: 200px;
+    width: 500px;
+    overflow: auto;
+}
